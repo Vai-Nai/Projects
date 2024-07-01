@@ -1,0 +1,43 @@
+2024-07-01  20:21:40 - INFO - Initialized with File Length 24
+2024-07-01  20:21:44 - DEBUG - Total Word Count: 5
+2024-07-01  20:21:44 - INFO - Total Word Count: 5
+2024-07-01  20:22:27 - INFO - Initialized with File Length 24
+2024-07-01  20:22:29 - DEBUG - Total Word Count: 5
+2024-07-01  20:22:29 - INFO - Total Word Count: 5
+2024-07-01  20:22:30 - DEBUG - Unique Word Count: 4
+2024-07-01  20:22:30 - INFO - Total Word Count: 4
+2024-07-01  20:22:31 - DEBUG - Frequencies of Words: 
+2024-07-01  20:22:31 - INFO - Word Frequency
+2024-07-01  21:50:35 - INFO - Initialized with File Length 24
+2024-07-01  21:51:30 - INFO - Initialized with File Length 24
+2024-07-01  21:51:59 - INFO - Initialized with File Length 24
+2024-07-01  21:52:01 - DEBUG - Total Word Count: 5
+2024-07-01  21:52:01 - INFO - Total Word Count: 5
+2024-07-01  21:52:02 - DEBUG - Unique Word Count: 4
+2024-07-01  21:52:02 - INFO - Unique Word Count: 4
+2024-07-01  21:52:05 - DEBUG - Frequencies of Words: 
+2024-07-01  21:52:05 - INFO - Word Frequency
+2024-07-01  21:52:14 - ERROR - Initialized with Empty File
+2024-07-01  21:54:04 - ERROR - Initialized with Empty File
+2024-07-01  21:55:08 - ERROR - Initialized with Empty File
+2024-07-01  21:57:21 - ERROR - Initialized with Empty File
+2024-07-01  21:57:21 - ERROR - File Empty
+2024-07-01  21:58:07 - ERROR - Initialized with Empty File
+2024-07-01  21:58:07 - ERROR - File Empty
+2024-07-01  21:58:15 - ERROR - Error in the name of the File
+2024-07-01  21:58:21 - INFO - Initialized with File Length 24
+2024-07-01  21:58:43 - INFO - Initialized with File Length 24
+2024-07-01  21:58:49 - DEBUG - Total Word Count: 5
+2024-07-01  21:58:49 - INFO - Total Word Count: 5
+2024-07-01  21:58:50 - DEBUG - Unique Word Count: 4
+2024-07-01  21:58:50 - INFO - Unique Word Count: 4
+2024-07-01  21:58:51 - DEBUG - Frequencies of Words: 
+2024-07-01  21:58:51 - INFO - Word Frequency
+2024-07-01  21:59:20 - INFO - Initialized with File Length 24
+2024-07-01  21:59:23 - DEBUG - Total Word Count: 5
+2024-07-01  21:59:23 - INFO - Total Word Count: 5
+2024-07-01  21:59:23 - DEBUG - Unique Word Count: 4
+2024-07-01  21:59:23 - INFO - Unique Word Count: 4
+2024-07-01  21:59:25 - DEBUG - Frequencies of Words: 
+2024-07-01  21:59:25 - INFO - Word Frequency
+2024-07-01  21:59:27 - INFO - Exiting

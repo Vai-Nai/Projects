@@ -1,0 +1,42 @@
+2024-07-01  21:14:08 - DEBUG - Total Word Count: 5
+2024-07-01  21:14:08 - INFO - Total Word Count: 5
+2024-07-01  21:14:10 - DEBUG - Unique Word Count: 4
+2024-07-01  21:14:10 - INFO - Unique Word Count: 4
+2024-07-01  21:14:12 - INFO - Word Frequency: 
+2024-07-01  21:14:49 - DEBUG - Total Word Count: 5
+2024-07-01  21:14:49 - INFO - Total Word Count: 5
+2024-07-01  21:14:50 - DEBUG - Unique Word Count: 4
+2024-07-01  21:14:50 - INFO - Unique Word Count: 4
+2024-07-01  21:14:51 - INFO - Word Frequency: {'hello': 2, 'how': 1, 'are': 1, 'you': 1}
+2024-07-01  21:32:48 - DEBUG - Total Word Count: 5
+2024-07-01  21:32:48 - INFO - Total Word Count: 5
+2024-07-01  21:34:02 - INFO - Total Word Count: 0
+2024-07-01  21:34:04 - INFO - Unique Word Count: 0
+2024-07-01  21:36:04 - INFO - Total Word Count: 0
+2024-07-01  21:36:05 - INFO - Unique Word Count: 0
+2024-07-01  21:36:06 - ERROR - Word Frequency: {}
+2024-07-01  21:37:08 - ERROR - Error in the Name of the File
+2024-07-01  21:37:43 - DEBUG - Total Word Count: 5
+2024-07-01  21:37:43 - INFO - Total Word Count: 5
+2024-07-01  21:37:44 - ERROR - Word Frequency: {}
+2024-07-01  21:38:44 - DEBUG - Total Word Count: 5
+2024-07-01  21:38:45 - INFO - Total Word Count: 5
+2024-07-01  21:38:45 - DEBUG - Unique Word Count: 4
+2024-07-01  21:38:45 - INFO - Unique Word Count: 4
+2024-07-01  21:39:42 - DEBUG - Total Word Count: 5
+2024-07-01  21:39:42 - INFO - Total Word Count: 5
+2024-07-01  21:39:42 - DEBUG - Unique Word Count: 4
+2024-07-01  21:39:42 - INFO - Unique Word Count: 4
+2024-07-01  21:39:43 - DEBUG - Word Frequency: {'hello': 2, 'how': 1, 'are': 1, 'you': 1}
+2024-07-01  21:39:43 - INFO - Word Frequency: {'hello': 2, 'how': 1, 'are': 1, 'you': 1}
+2024-07-01  22:03:24 - DEBUG - Total Word Count: 5
+2024-07-01  22:03:24 - INFO - Total Word Count: 5
+2024-07-01  22:03:25 - DEBUG - Unique Word Count: 4
+2024-07-01  22:03:25 - INFO - Unique Word Count: 4
+2024-07-01  22:03:26 - DEBUG - Word Frequency: {'hello': 2, 'how': 1, 'are': 1, 'you': 1}
+2024-07-01  22:03:26 - INFO - Word Frequency: {'hello': 2, 'how': 1, 'are': 1, 'you': 1}
+2024-07-01  22:03:31 - INFO - Exiting
+2024-07-01  22:03:47 - INFO - Total Word Count: 0
+2024-07-01  22:03:47 - INFO - Unique Word Count: 0
+2024-07-01  22:03:50 - ERROR - Word Frequency: {}
+2024-07-01  22:04:05 - ERROR - Error in the Name of the File
